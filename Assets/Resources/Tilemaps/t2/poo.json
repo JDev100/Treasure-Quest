@@ -1,0 +1,118 @@
+{
+	"__header__": {
+		"fileType": "LDtk Project JSON",
+		"app": "LDtk",
+		"doc": "https://ldtk.io/json",
+		"schema": "https://ldtk.io/files/JSON_SCHEMA.json",
+		"appAuthor": "Sebastien 'deepnight' Benard",
+		"appVersion": "0.8.1",
+		"url": "https://ldtk.io"
+	},
+	"jsonVersion": "0.8.1",
+	"nextUid": 3,
+	"worldLayout": "Free",
+	"worldGridWidth": 256,
+	"worldGridHeight": 256,
+	"defaultPivotX": 0,
+	"defaultPivotY": 0,
+	"defaultGridSize": 16,
+	"defaultLevelWidth": 256,
+	"defaultLevelHeight": 256,
+	"bgColor": "#40465B",
+	"defaultLevelBgColor": "#696A79",
+	"minifyJson": false,
+	"externalLevels": false,
+	"exportTiled": false,
+	"exportPng": false,
+	"pngFilePattern": null,
+	"backupOnSave": false,
+	"backupLimit": 10,
+	"flags": [],
+	"defs": { "layers": [
+		{
+			"__type": "Tiles",
+			"identifier": "Tiles",
+			"type": "Tiles",
+			"uid": 2,
+			"gridSize": 32,
+			"displayOpacity": 1,
+			"pxOffsetX": 0,
+			"pxOffsetY": 0,
+			"requiredTags": [],
+			"excludedTags": [],
+			"intGridValues": [{ "value": 1, "identifier": null, "color": "#000000" }],
+			"autoTilesetDefUid": null,
+			"autoRuleGroups": [],
+			"autoSourceLayerDefUid": null,
+			"tilesetDefUid": 1,
+			"tilePivotX": 0,
+			"tilePivotY": 0
+		}
+	], "entities": [], "tilesets": [
+		{
+			"identifier": "Terrain_32x32_",
+			"uid": 1,
+			"relPath": "../../../PlatformerPackage/Art/Treasure Hunters/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png",
+			"pxWid": 544,
+			"pxHei": 160,
+			"tileGridSize": 32,
+			"spacing": 0,
+			"padding": 0,
+			"savedSelections": [],
+			"cachedPixelData": {
+				"opaqueTiles": "0100001001100100001000011000000010000000000000000000000000001000000000000000000000000",
+				"averageColors": "f566f455f5660000f5660000f334f3340000f344f4440000f455f4550000f4550000f556f334f5560000f6670000f344f3440000f444f4450000f445f4450000f444f444e667f556e5570000e667000000000000000000000000000000000000000000000000000000000000000000000000f556f5560000f455f4550000f566f4660000f566f566e577f566e5660000e5770000f556f5560000f556f5560000f566f5660000e667e567"
+			}
+		}
+	], "enums": [], "externalEnums": [], "levelFields": [] },
+	"levels": [
+		{
+			"identifier": "Level1",
+			"uid": 0,
+			"worldX": 0,
+			"worldY": 0,
+			"pxWid": 256,
+			"pxHei": 256,
+			"__bgColor": "#696A79",
+			"bgColor": null,
+			"bgRelPath": null,
+			"bgPos": null,
+			"bgPivotX": 0.5,
+			"bgPivotY": 0.5,
+			"__bgPos": null,
+			"externalRelPath": null,
+			"fieldInstances": [],
+			"layerInstances": [
+				{
+					"__identifier": "Tiles",
+					"__type": "Tiles",
+					"__cWid": 8,
+					"__cHei": 8,
+					"__gridSize": 32,
+					"__opacity": 1,
+					"__pxTotalOffsetX": 0,
+					"__pxTotalOffsetY": 0,
+					"__tilesetDefUid": 1,
+					"__tilesetRelPath": "../../../PlatformerPackage/Art/Treasure Hunters/Palm Tree Island/Sprites/Terrain/Terrain (32x32).png",
+					"levelId": 0,
+					"layerDefUid": 2,
+					"pxOffsetX": 0,
+					"pxOffsetY": 0,
+					"visible": true,
+					"intGrid": [],
+					"intGridCsv": [],
+					"autoLayerTiles": [],
+					"seed": 1959331,
+					"overrideTilesetUid": null,
+					"gridTiles": [
+						{ "px": [64,128], "src": [32,0], "f": 0, "t": 1, "d": [34] },
+						{ "px": [96,128], "src": [32,0], "f": 0, "t": 1, "d": [35] },
+						{ "px": [128,128], "src": [32,0], "f": 0, "t": 1, "d": [36] }
+					],
+					"entityInstances": []
+				}
+			],
+			"__neighbours": []
+		}
+	]
+}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7511598256776874179
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6116939959479251851}
+  - component: {fileID: 7634564478836838684}
+  m_Layer: 0
+  m_Name: _AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6116939959479251851
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7511598256776874179}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.37761, y: 1.5034019, z: -129.14172}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7634564478836838684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7511598256776874179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 383fdf3dfbed6b34da282f9d40d91eae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outputGroups:
+  - {fileID: -6285628574614765371, guid: c0a15f0d8852b584ea70c779db342c6c, type: 2}
+  - {fileID: -9207267406585016590, guid: c0a15f0d8852b584ea70c779db342c6c, type: 2}
+  - {fileID: 4306919430108859242, guid: d8fc29653b75a0840a5b480a207b18d1, type: 2}
+  - {fileID: -5830188873177739151, guid: d8fc29653b75a0840a5b480a207b18d1, type: 2}
+  - {fileID: 6276402276500661407, guid: d8fc29653b75a0840a5b480a207b18d1, type: 2}
+  - {fileID: 899395547295649204, guid: d8fc29653b75a0840a5b480a207b18d1, type: 2}
+  - {fileID: -3422360450258520513, guid: d8fc29653b75a0840a5b480a207b18d1, type: 2}
+  - {fileID: -1679497375551184070, guid: a5d8389723cd9b34e8c5351ca20ae68f, type: 2}
+  - {fileID: 7106674770852662985, guid: a5d8389723cd9b34e8c5351ca20ae68f, type: 2}
+  - {fileID: 51127488624768169, guid: a5d8389723cd9b34e8c5351ca20ae68f, type: 2}
+  - {fileID: -5969998770211257285, guid: ccbbcf68eb76d1c4e9c48582643a1cf1, type: 2}
+  - {fileID: 8659287335769244496, guid: ccbbcf68eb76d1c4e9c48582643a1cf1, type: 2}
+  - {fileID: 7071948816672885791, guid: ccbbcf68eb76d1c4e9c48582643a1cf1, type: 2}
+  - {fileID: -7256300114755387812, guid: 5f1b43a2455394a428da396300e4e6e7, type: 2}
+  globalMusicVolume: 1
+  globalSFXVolume: 1
+  audioChannelSetup: 0000000000000000010000000100000001000000010000000100000002000000020000000200000003000000030000000300000004000000

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BombPirateAnimator
+  m_Controller: {fileID: 9100000, guid: 926c427deb2668d4ea20738e760212f7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 52b48be59539ba94693c89e02e052180, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4f876481404b50a478caa90a59faa7d3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1a79ee566a8594149b6f00f2b75c1311, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf63d6e0f096bd44386375ab188d7f53, type: 2}

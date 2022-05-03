@@ -1,0 +1,1607 @@
+fileFormatVersion: 2
+guid: e080c1af7c7f9134c840d91977dfe1cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8412325114515345484
+    second: CastlePallet1_Simple-export_0
+  - first:
+      213: -2662914965451042904
+    second: CastlePallet1_
+  - first:
+      213: -2024124289550762129
+    second: CastlePallet1_Simple-export_2
+  - first:
+      213: -7991721700505622310
+    second: CastlePallet1_Simple-export_3
+  - first:
+      213: 5283719157219871601
+    second: CastlePallet1_Wall_Left_4_1
+  - first:
+      213: -6336067244688024152
+    second: CastlePallet1_Wall_Left_4_P
+  - first:
+      213: -7911809663048147938
+    second: CastlePallet1_Wall_Right_4_P
+  - first:
+      213: 2055632904697512232
+    second: CastlePallet1_Wall_Right_4_1
+  - first:
+      213: -433524902195148805
+    second: CastlePallet1_Wall_Left_3_1
+  - first:
+      213: 4996524867989442
+    second: CastlePallet1_Wall_Left_3_P
+  - first:
+      213: 150719991041184057
+    second: CastlePallet1_Wall_Right_3_P
+  - first:
+      213: 1431126061317301430
+    second: CastlePallet1_Wall_Right_3_1
+  - first:
+      213: -4302115237906503210
+    second: CastlePallet1_Wall_Left_2_1
+  - first:
+      213: -6135633575273369773
+    second: CastlePallet1_Wall_Left_2_P
+  - first:
+      213: -2050932453105182000
+    second: CastlePallet1_Wall_Right_2_P
+  - first:
+      213: -7642229296496030100
+    second: CastlePallet1_Wall_Right_2_1
+  - first:
+      213: -1258036169751453019
+    second: CastlePallet1_Wall_Left_1_1
+  - first:
+      213: -8304702031380797600
+    second: CastlePallet1_Wall_Left_1_P
+  - first:
+      213: 1203681874763143107
+    second: CastlePallet1_Wall_Right_1_P
+  - first:
+      213: 524914155379612137
+    second: CastlePallet1_Wall_Right_1_1
+  - first:
+      213: -55984967095522903
+    second: CastlePallet1_Wall_Left_0_1
+  - first:
+      213: -7615829816950465123
+    second: CastlePallet1_Wall_Left_0_P
+  - first:
+      213: 3318248573339691356
+    second: CastlePallet1_Wall_Right_0_P
+  - first:
+      213: -9185878695275577199
+    second: CastlePallet1_Wall_Right_0_1
+  - first:
+      213: -8904208303163520737
+    second: CastlePallet1_Roof_0_1
+  - first:
+      213: -109235093185753401
+    second: CastlePallet1_Roof_1_1
+  - first:
+      213: -1485768481080024477
+    second: CastlePallet1_Roof_2_1
+  - first:
+      213: 8092193635783675683
+    second: CastlePallet1_Roof_3_1
+  - first:
+      213: 5376892917923474066
+    second: CastlePallet1_Roof_4_1
+  - first:
+      213: 4299698326995554515
+    second: CastlePallet1_Simple-export_29
+  - first:
+      213: 5990455882779079507
+    second: CastlePallet1_Bottom_Right_P
+  - first:
+      213: 2995167853341445922
+    second: CastlePallet1_Bottom_Left_P
+  - first:
+      213: 2272807904505999128
+    second: CastlePallet1_Simple-export_32
+  - first:
+      213: 7497600990942962408
+    second: CastlePallet1_Roof_0_P
+  - first:
+      213: -3145691454270969128
+    second: CastlePallet1_Roof_1_P
+  - first:
+      213: -504440749365263015
+    second: CastlePallet1_Roof_2_P
+  - first:
+      213: -601423210612465529
+    second: CastlePallet1_Roof_3_P
+  - first:
+      213: -3933156463405147618
+    second: CastlePallet1_Roof_4_P
+  - first:
+      213: -3155672841204965287
+    second: CastlePallet1_Top_Left_1
+  - first:
+      213: -4309816888074535114
+    second: CastlePallet1_Ground_0_1
+  - first:
+      213: -9214049005830529298
+    second: CastlePallet1_Ground_1_1
+  - first:
+      213: 4451480732174999794
+    second: CastlePallet1_Ground_2_1
+  - first:
+      213: -6519464846450307770
+    second: CastlePallet1_Ground_3_1
+  - first:
+      213: -5576664209325250115
+    second: CastlePallet1_Top_Right_1
+  - first:
+      213: -6877113375334549187
+    second: CastlePallet1_Top_Left_P
+  - first:
+      213: 6329566880069803637
+    second: CastlePallet1_Ground_0_P
+  - first:
+      213: 6164051998675188608
+    second: CastlePallet1_Ground_1_P
+  - first:
+      213: 5802401737250192212
+    second: CastlePallet1_Ground_2_P
+  - first:
+      213: -5214871289150141554
+    second: CastlePallet1_Ground_3_P
+  - first:
+      213: 3088582252851856098
+    second: CastlePallet1_Top_Right_P
+  - first:
+      213: 1988272968354537328
+    second: CastlePallet1_Simple-export_50
+  - first:
+      213: 8803177824768672879
+    second: CastlePallet1_Ground_0_2
+  - first:
+      213: 9212248749235638426
+    second: CastlePallet1_Ground_1_2
+  - first:
+      213: -7546810766009710574
+    second: CastlePallet1_Simple-export_0
+  - first:
+      213: 5607217123776773299
+    second: CastlePallet1_
+  - first:
+      213: 3422287787297654736
+    second: CastlePallet1_Simple-export_2
+  - first:
+      213: -1982013316265739947
+    second: CastlePallet1_Simple-export_3
+  - first:
+      213: 517131770290769755
+    second: CastlePallet1_Wall_Left_4_1
+  - first:
+      213: 4702516077247425190
+    second: CastlePallet1_Wall_Left_4_P
+  - first:
+      213: -3484711209573053770
+    second: CastlePallet1_Wall_Right_4_P
+  - first:
+      213: -8461628512627138394
+    second: CastlePallet1_Wall_Right_4_1
+  - first:
+      213: 2815787802651418843
+    second: CastlePallet1_Wall_Left_3_1
+  - first:
+      213: -7257718419247828734
+    second: CastlePallet1_Wall_Left_3_P
+  - first:
+      213: 3975436572620549960
+    second: CastlePallet1_Wall_Right_3_P
+  - first:
+      213: 401537285220695015
+    second: CastlePallet1_Wall_Right_3_1
+  - first:
+      213: 3644360184251884689
+    second: CastlePallet1_Wall_Left_2_1
+  - first:
+      213: -891594182770798173
+    second: CastlePallet1_Wall_Left_2_P
+  - first:
+      213: -3212735451476000399
+    second: CastlePallet1_Wall_Right_2_P
+  - first:
+      213: 142600056650884787
+    second: CastlePallet1_Wall_Right_2_1
+  - first:
+      213: 4717947635631669860
+    second: CastlePallet1_Wall_Left_1_1
+  - first:
+      213: -2170996806392610785
+    second: CastlePallet1_Wall_Left_1_P
+  - first:
+      213: 5401297388848823226
+    second: CastlePallet1_Wall_Right_1_P
+  - first:
+      213: 4794683301800039531
+    second: CastlePallet1_Wall_Right_1_1
+  - first:
+      213: 684549410082959670
+    second: CastlePallet1_Wall_Left_0_1
+  - first:
+      213: -3918778486362385882
+    second: CastlePallet1_Wall_Left_0_P
+  - first:
+      213: 9212688942778449555
+    second: CastlePallet1_Wall_Right_0_P
+  - first:
+      213: -2780274729659139251
+    second: CastlePallet1_Wall_Right_0_1
+  - first:
+      213: 1350786115509614726
+    second: CastlePallet1_Roof_0_1
+  - first:
+      213: 6075350810951972487
+    second: CastlePallet1_Roof_1_1
+  - first:
+      213: -4749393943947644252
+    second: CastlePallet1_Roof_2_1
+  - first:
+      213: -5104527787261637376
+    second: CastlePallet1_Roof_3_1
+  - first:
+      213: 5193130286982476563
+    second: CastlePallet1_Roof_4_1
+  - first:
+      213: -934276552200472753
+    second: CastlePallet1_Simple-export_29
+  - first:
+      213: -955183509182519741
+    second: CastlePallet1_Bottom_Right_P
+  - first:
+      213: 3856228035527236586
+    second: CastlePallet1_Bottom_Left_P
+  - first:
+      213: 7266451486501861279
+    second: CastlePallet1_Simple-export_32
+  - first:
+      213: 5957190434929551898
+    second: CastlePallet1_Roof_0_P
+  - first:
+      213: 8252983604912179276
+    second: CastlePallet1_Roof_1_P
+  - first:
+      213: -3592207517979779639
+    second: CastlePallet1_Roof_2_P
+  - first:
+      213: 1446338843714690012
+    second: CastlePallet1_Roof_3_P
+  - first:
+      213: 5006038853674164168
+    second: CastlePallet1_Roof_4_P
+  - first:
+      213: 5368892857651248100
+    second: CastlePallet1_Top_Left_1
+  - first:
+      213: -7145473520987938596
+    second: CastlePallet1_Ground_0_1
+  - first:
+      213: -2193938662379000379
+    second: CastlePallet1_Ground_1_1
+  - first:
+      213: -5233751035639987135
+    second: CastlePallet1_Ground_2_1
+  - first:
+      213: 2441837712989638043
+    second: CastlePallet1_Ground_3_1
+  - first:
+      213: 7080380508496077581
+    second: CastlePallet1_Top_Right_1
+  - first:
+      213: 8786392502891494283
+    second: CastlePallet1_Top_Left_P
+  - first:
+      213: 4029292556920374703
+    second: CastlePallet1_Ground_0_P
+  - first:
+      213: 4843760122095108344
+    second: CastlePallet1_Ground_1_P
+  - first:
+      213: -6237861736652186647
+    second: CastlePallet1_Ground_2_P
+  - first:
+      213: -8908216857131649705
+    second: CastlePallet1_Ground_3_P
+  - first:
+      213: -5405089064226010108
+    second: CastlePallet1_Top_Right_P
+  - first:
+      213: -5782216398596985770
+    second: CastlePallet1_Simple-export_50
+  - first:
+      213: 1473895310245365080
+    second: CastlePallet1_Ground_0_2
+  - first:
+      213: -2219257527670189894
+    second: CastlePallet1_Ground_1_2
+  - first:
+      213: 2114997835534166794
+    second: CastlePallet1_Ground_2_2
+  - first:
+      213: 2939973082465428464
+    second: CastlePallet1_Ground_3_2
+  - first:
+      213: 7573851159590997176
+    second: CastlePallet1_BlackSpace_P
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastlePallet1_Simple-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218c5e0d797544790800000000000000
+      internalID: -7546810766009710574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb3390446d0dd40800000000000000
+      internalID: 5607217123776773299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Simple-export_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7c8094c986e7f20800000000000000
+      internalID: 3422287787297654736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Simple-export_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f2e7d3697e74e0800000000000000
+      internalID: -1982013316265739947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_4_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f004eea983d2700800000000000000
+      internalID: 517131770290769755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_4_P
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa65ee0571b24140800000000000000
+      internalID: 4702516077247425190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_4_P
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba83902e91d3afc0800000000000000
+      internalID: -3484711209573053770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_4_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ea8b03b1429a80800000000000000
+      internalID: -8461628512627138394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_3_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06aeb7610b31720800000000000000
+      internalID: 2815787802651418843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_3_P
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2017cecfc87674b90800000000000000
+      internalID: -7257718419247828734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_3_P
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe42200869b2730800000000000000
+      internalID: 3975436572620549960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_3_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb77a1980c829500800000000000000
+      internalID: 401537285220695015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19429e7674e539230800000000000000
+      internalID: 3644360184251884689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_2_P
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1542c80db60a3f0800000000000000
+      internalID: -891594182770798173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_2_P
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1710871f0221a63d0800000000000000
+      internalID: -3212735451476000399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_2_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b660a9fefd9af100800000000000000
+      internalID: 142600056650884787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46248bab064897140800000000000000
+      internalID: 4717947635631669860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_1_P
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10067238e11fd1e0800000000000000
+      internalID: -2170996806392610785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_1_P
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb349c9b5345fa40800000000000000
+      internalID: 5401297388848823226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d9464f032a8240800000000000000
+      internalID: 4794683301800039531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_0_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631b233cf02008900800000000000000
+      internalID: 684549410082959670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Left_0_P
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6225deeaab3bd99c0800000000000000
+      internalID: -3918778486362385882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_0_P
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e7a7458cb0adf70800000000000000
+      internalID: 9212688942778449555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Wall_Right_0_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bfba82dda7a69d0800000000000000
+      internalID: -2780274729659139251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_0_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688fa76b0d4feb210800000000000000
+      internalID: 1350786115509614726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_1_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7867cacbf5bff4450800000000000000
+      internalID: 6075350810951972487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2fb901f53c61eb0800000000000000
+      internalID: -4749393943947644252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_3_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dc82eb5031929b0800000000000000
+      internalID: -5104527787261637376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_4_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b9eb4b74b11840800000000000000
+      internalID: 5193130286982476563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Simple-export_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f473d100d68c803f0800000000000000
+      internalID: -934276552200472753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Bottom_Right_P
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3466ddfb8a18eb2f0800000000000000
+      internalID: -955183509182519741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Bottom_Left_P
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebd08697f2148530800000000000000
+      internalID: 3856228035527236586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Simple-export_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f977d8ea02f97d460800000000000000
+      internalID: 7266451486501861279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_0_P
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa45553213ca250800000000000000
+      internalID: 5957190434929551898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_1_P
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48c9ebccdc788270800000000000000
+      internalID: 8252983604912179276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_2_P
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdd3537b4ae52ec0800000000000000
+      internalID: -3592207517979779639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_3_P
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb967ce38d621410800000000000000
+      internalID: 1446338843714690012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Roof_4_P
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf5d0570d5097540800000000000000
+      internalID: 5006038853674164168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Top_Left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3f61cb93228a40800000000000000
+      internalID: 5368892857651248100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_0_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0ed85e0bd26dc90800000000000000
+      internalID: -7145473520987938596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd67e919609d81e0800000000000000
+      internalID: -2193938662379000379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14488d5a92bfd57b0800000000000000
+      internalID: -5233751035639987135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_3_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d46e9667623e120800000000000000
+      internalID: 2441837712989638043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Top_Right_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03228b1f80924260800000000000000
+      internalID: 7080380508496077581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Top_Left_P
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb008dd698fe970800000000000000
+      internalID: 8786392502891494283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_0_P
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa54d5f7b3ceae730800000000000000
+      internalID: 4029292556920374703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_1_P
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f08eaeea2e783340800000000000000
+      internalID: 4843760122095108344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_2_P
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb58d4dcc9ae69a0800000000000000
+      internalID: -6237861736652186647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_3_P
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755758857f7af5480800000000000000
+      internalID: -8908216857131649705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Top_Right_P
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cc57b22244df4b0800000000000000
+      internalID: -5405089064226010108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Simple-export_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c203b22d071cfa0800000000000000
+      internalID: -5782216398596985770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_0_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8550a43c9f3547410800000000000000
+      internalID: 1473895310245365080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab05b16690d9331e0800000000000000
+      internalID: -2219257527670189894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_2_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bebbf535bf95d10800000000000000
+      internalID: 2114997835534166794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_Ground_3_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ef8d11f1ecc820800000000000000
+      internalID: 2939973082465428464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlePallet1_BlackSpace_P
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc0a1d6089bb1960800000000000000
+      internalID: 7573851159590997176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
